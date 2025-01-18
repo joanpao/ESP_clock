@@ -1,5 +1,7 @@
 ESP32_OLEDaf_NTPclock
 
+Original idea https://github.com/ferreto1978
+
 This program:
 - Read Internet NTP time
 - Display time in OLED screen
